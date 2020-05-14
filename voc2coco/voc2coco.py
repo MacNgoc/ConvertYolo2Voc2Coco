@@ -1,3 +1,6 @@
+
+# source https://github.com/roboflow-ai/voc2coco
+# I've fixed some bugs from here https://github.com/roboflow-ai/voc2coco
 import os
 import argparse
 import json
